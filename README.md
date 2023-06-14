@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing open source contribution and wants to join remote jobs as a software developer ..
 - 🌱 I’m currently learning new technologies as per the market requires.
 - 
-- 💞️ I’m looking to collaborate on projects and startups...
+- 💞️ I’m looking to collaborate with  projects and startups...
 - 📫 you can reach me out through my github profile , linkedin , or via email.
 
 <!---
